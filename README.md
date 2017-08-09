@@ -1,3 +1,6 @@
+# Implementation
+Please see "model documentaion.pdf" for implementation details. All the code is contained in "main.cpp"
+
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
    
